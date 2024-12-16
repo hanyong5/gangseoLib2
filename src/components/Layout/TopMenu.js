@@ -33,12 +33,12 @@ function SubTopMenu() {
         </div>
       </SmoothLink>
       {/* <Link to="/libabout"> */}
-      <div
+      {/* <div
         className="TopMenu"
         onClick={handleGoBack}
       >
         <TopMenuIcon iconName="iconMenu" />
-      </div>
+      </div> */}
       {/* <div
         className="TopMenu"
         onClick={handleClose}
